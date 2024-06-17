@@ -1,8 +1,5 @@
 package folder;
-/**
- *
- * @author Alan DoubleEiht4
- */
+
 public class Entidad implements java.io.Serializable {
     
     private int idEntidad;

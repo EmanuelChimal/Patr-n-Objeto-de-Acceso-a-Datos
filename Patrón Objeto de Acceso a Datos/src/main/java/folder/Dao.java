@@ -1,8 +1,5 @@
 package folder;
-/**
- *
- * @author Alan DoubleEight4
- */
+
 import java.sql.SQLException;
 import java.util.List;
 
