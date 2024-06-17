@@ -3,13 +3,12 @@ package folder;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-import java.lang.ClassNotFoundException;
 
 public class ConMySQL {
     private Connection conn;
-    private String bd;
-    private String host;
-    private String port;
+    private final String bd;
+    private final String host;
+    private final String port;
 
     public ConMySQL() {
         bd = "mrysiEscuelas";

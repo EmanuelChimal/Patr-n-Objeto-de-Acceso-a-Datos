@@ -1,4 +1,4 @@
-package universidad.baobasedatos;
+package universidad.bd;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;

@@ -1,4 +1,4 @@
-package upiicsa.baobasedatos.resources;
+package universidad.bd.resources;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
