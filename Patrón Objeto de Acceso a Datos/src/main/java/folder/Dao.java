@@ -6,7 +6,7 @@ package folder;
 import java.sql.SQLException;
 import java.util.List;
 
-public interface EntidadDAO {
+public interface Dao {
     public void insert(Entidad entidad) throws SQLException;
     public void update(Entidad entidad) throws SQLException;
     public void delete(Integer id) throws SQLException;
